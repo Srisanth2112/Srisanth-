@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SrisanthAi-Flash",
+  "description": "An intelligent AI assistant with a sleek, Gemini-inspired interface. Features a powerful chat, image generation & editing tools, and a voice assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
